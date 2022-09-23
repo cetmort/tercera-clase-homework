@@ -1,0 +1,19 @@
+:host{
+    div{
+        p{
+            font-size: 25px;
+            color: white;
+            text-align: center;
+            transition:font-size 5s;
+        }
+        button{
+            display: block;
+            width: 20%;
+            margin-top: 2%;
+            margin-left: 40%;
+            color: aquamarine;
+            background-color: rgba($color: #3c040397, $alpha: 0.8);
+        }
+
+    }
+}
